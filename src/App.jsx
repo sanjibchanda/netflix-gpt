@@ -1,10 +1,11 @@
 import React from "react";
+import Body from "./components/Body";
 
 const App = () => {
   return (
-    <div className="container mx-auto px-3">
-      <h1 className="text-3xl font-semibold">Hello world!</h1>
-    </div>
+    <>
+      <Body />
+    </>
   );
 };
 

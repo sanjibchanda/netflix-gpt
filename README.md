@@ -14,4 +14,7 @@
 
    ref: https://tailwindcss.com/docs/guides/vite
 
+3. install React Router DOM:
+   - npm i -D react-router-dom
+
 ---
