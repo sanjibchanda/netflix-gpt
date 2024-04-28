@@ -31,6 +31,13 @@
 - install Tailwindcss
 - create a Github repository and clone it to your local machine
 - install React Router DOM
+- form validation (useRef) (regex for form validation)
+- setup Firebase Deployment:
+  - install firebase: npm install firebase
+  - install firebase CLI: npm install -g firebase-tools
+  - Sign in to Google: firebase login
+  - Initiate your project: firebase init (then select Hosting)
+  - deploy your web app: firebase deploy
 
 # Features:
 
